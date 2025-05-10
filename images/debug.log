@@ -1,0 +1,6 @@
+[0801/140550.020:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0801/145044.621:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0801/145750.316:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0802/193724.212:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0807/145223.009:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0807/172246.458:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
